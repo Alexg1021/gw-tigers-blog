@@ -1,0 +1,21 @@
+.blog{
+    background-color: #ddccaa;
+    width: 100%;
+    
+}
+.blog-box{
+    width: 400px;
+    height: 600px;
+    padding: 20px;
+    margin: 0 10px;
+    border: 2px dashed #333;
+    float: left;
+}
+
+#blog img{
+    width: 100%;
+}
+
+
+
+
